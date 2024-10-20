@@ -2,6 +2,8 @@
 import unreal
 import random
 
+# Written by Idlan bin Hafiz
+
 # Define the folder path for your asset (static meshes) in Unreal
 asset_path = "/Game/Props/Trees"
 
