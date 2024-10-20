@@ -22,3 +22,5 @@ This tool automates the placement of objects in Unreal Engine using Python scrip
    ```
 
 3. Customize the script variables like `grid_size`, `grid_spacing`, `scale_range`, and `rotation_range` to fit your needs.
+
+Written by Idlan bin Hafiz
